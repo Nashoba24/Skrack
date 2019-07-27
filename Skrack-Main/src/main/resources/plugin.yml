@@ -1,0 +1,7 @@
+name: Skrack
+main: fr.nashoba24.skrack.Skrack
+author: Nashoba24
+version: 1.0.0
+load: STARTUP
+depend: [ProtocolLib]
+softdepend: [Skript]
